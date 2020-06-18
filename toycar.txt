@@ -1,0 +1,47 @@
+{
+    "Items": [
+        {
+            "GameId": "1",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.tingbing.duck.family.simulator&referrer=utm_source%3Dtoyting",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/interstatila-promo.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/flipray/master/nativeduck.jpg"
+        },
+        {
+            "GameId": "2",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.tingbing.mouse.family.city.simulator&referrer=utm_source%3Dtoyting",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/mouse.jpg"
+        },
+{
+            "GameId": "3",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.tingbing.flying.horse.taxi.city.tranport.offroad&referrer=utm_source%3Dtoyting",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/interstatila-promo.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/tingbing/master/horsy.jpg"
+        },
+        {
+            "GameId": "4",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.tingbing.goat.family.simulator&referrer=utm_source%3Dtoyting",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/snowtiger/master/goat.jpg"
+        },
+ {
+            "GameId": "5",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.action.trending.prison.escape.survival.story&referrer=utm_source%3Dtoyting",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/actiontrends/master/spider.jpg"
+        },
+{
+            "GameId": "6",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.tingbing.idle.stickman.flip.ninja.stunts&referrer=utm_source%3Dtoyting",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/tingbing/master/stickflip.jpg"
+        }
+ 
+    ]
+}
